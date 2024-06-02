@@ -1,6 +1,3 @@
-下面是将 README 文件内容翻译成中文的版本，同时保持 markdown 格式：
-
-
 #   🐲Xplorer🐲 
 
 Xplorer 是一个自主代理，负责繁琐的任务，并通过抓取、过滤、聚合和组织信息，编写详细且结构良好的MarkDown格式的研究报告。可以看成是GPT researcher的简化版本。
