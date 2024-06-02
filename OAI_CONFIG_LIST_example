@@ -1,0 +1,17 @@
+[
+    {
+        "model": "moonshot-v1-128k",
+        "base_url":"https://api.moonshot.cn/v1",
+        "api_key": "sk-***"
+    },
+    {
+        "model": "llama3",
+        "base_url":"http://localhost:11434/v1",
+        "api_key": "ollama"
+    },
+    {
+        "model": "mlx",
+        "base_url":"http://localhost:8081/v1",
+        "api_key": "qwen1.5"
+    }
+]
