@@ -12,7 +12,7 @@ Compared with [gpt-researcher](https://github.com/assafelovic/gpt-researcher), X
 	  * Persistence management to deal with the exceptional breakout.
 	  * Local files retrieval along with Internet search.
 
-* ## **🔥How to use
+* ## **🔥How to use**
 
 - ### **Create and activate virtual environment**
 ```bash
@@ -57,10 +57,10 @@ python main.py
 
 ```
 
-* **Firstly, you have to input the topic you want to explore.
-* **Agent generates sub-topics for you to consider. You can agree by inputting 'exit' or change them by inputting your opinions.
-* **Search and retrieval are carried out based on the sub-topics round and round again.
-* **Subtopic reports are generated before the final comprehensive report is produced.
+* **Firstly, you have to input the topic you want to explore.**
+* **Agent generates sub-topics for you to consider. You can agree by inputting 'exit' or change them by inputting your opinions.**
+* **Search and retrieval are carried out based on the sub-topics round and round again.**
+* **Subtopic reports are generated before the final comprehensive report is produced.**
 
 * ## **🍺Discussion**
 
